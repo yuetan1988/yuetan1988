@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, it's YueTan 👋
+
+你可以关注我的微信公众号： YueTan
 
 <!--
 **yuetan1988/yuetan1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
