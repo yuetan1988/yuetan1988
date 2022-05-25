@@ -8,4 +8,4 @@
 
 #### kaggle
 
-- Nothing to mention yet, sad
+- 🥉 BirdCLEF 2022 - Identify bird calls in soundscapes
